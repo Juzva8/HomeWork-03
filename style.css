@@ -4,8 +4,6 @@
   box-sizing: border-box;
 }
 
-html,
-body,
 .wrapper {
   height: 100%;
   margin: 0;
@@ -15,6 +13,7 @@ body,
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
+  background: url("image1.png") no-repeat center center fixed; 
 }
 
 .wrapper {
