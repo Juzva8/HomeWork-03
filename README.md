@@ -18,6 +18,10 @@ This password generator will let you chose how you would like your password to l
 
 As I stated in my description, the HTML and CSS were provided by the UCLA Extension Full-Stack Web-Development Coding Bootcamp
 
+## Link to deployed version of the app
+
+https://juzva8.github.io/password-generator-/
+
 ## License
 
 MIT License
